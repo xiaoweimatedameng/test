@@ -4,7 +4,8 @@
 //
 //  Created by a on 2020/5/20.
 //  Copyright © 2020 xw. All rights reserved.
-//
+//  修改 AppDelegate.m 为B
+
 
 #import "AppDelegate.h"
 
